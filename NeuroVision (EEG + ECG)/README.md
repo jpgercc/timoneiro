@@ -28,4 +28,4 @@ While the project is founded on accessibility principles, the main cost limitati
 
 # Open Call
 
-This project is an open invitation to collaboration from researchers, developers, neurotechnology enthusiasts, biohackers, and anyone interested in exploring brain-heart interaction. The collaborative construction of this project aims to generate free, accessible knowledge applicable both in academic research and in technological innovations focused on well-being and self-awareness.
+This text is an open invitation to collaboration from researchers, developers, neurotechnology enthusiasts, biohackers, and anyone interested in exploring brain-heart interaction. The collaborative construction of this project aims to generate free, accessible knowledge applicable both in academic research and in technological innovations focused on well-being and self-awareness.

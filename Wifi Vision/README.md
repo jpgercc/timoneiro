@@ -10,7 +10,8 @@ Desenvolver um sistema que captura sinais Wi-Fi de um roteador local e analisa a
 
 - **Placa Wi-Fi compatível com CSI** (ex: Intel 5300)
 - **Notebook com Linux Ubuntu (18.04 recomendado)**
-- Driver modificado para extrair dados CSI
+-
+- <a href='https://dhalperi.github.io/linux-80211n-csitool/'>Driver modificado</a> para extrair dados CSI
 - Scripts de processamento de sinal (Python)
 - Visualização gráfica (opcional)
 
